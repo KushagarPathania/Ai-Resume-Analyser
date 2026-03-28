@@ -46,17 +46,6 @@ This project allows users to upload their resume (PDF), converts it into an imag
 4. AI analyzes resume based on job description
 5. Feedback is generated and displayed
 
----
-
-## 📂 Project Structure
-
-```
-src/
- ├── components/     # Reusable UI components
- ├── pages/          # Application pages
- ├── lib/            # Utility functions (pdf2img, store, etc.)
- ├── hooks/          # Custom hooks
-```
 
 ---
 
